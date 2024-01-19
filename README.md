@@ -6,3 +6,7 @@
 <p align="center">
   <img src="./assests/quote.png"></img>
 </p>
+
+<p align="center">
+  <img src="./assests/quote2.png"></img>
+</p>
